@@ -1,0 +1,16 @@
+cocoapods: diferentes topicos
+FeddKit
+Archivos XML
+
+
+sudo gem install cocoapods
+
+carpeta tracklist 
+  pod init
+farbase
+Archivo PodFile 
+  pod 'FeedKit', '->9.0'
+  end
+  
+  
+  pod install
