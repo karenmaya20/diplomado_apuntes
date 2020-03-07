@@ -1,0 +1,34 @@
+Conexión a firebase
+  # Pods for Proyfibase
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+
+-------------------
+TIEMPO DE TRABAJO
+4 hrs -> 8 hrs
+8 hrs ->16
+20dls basico
+total de horas * 1.2 = tiempo -> 1.20 colchon de tiempo
+30% total
+* 1.16 de IVA
+-------------------
+
+Freenlance
+Abogado 
+Contrato de exclusividad NDA
+
+------------------
+
+https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=e999391851d797b7438d1f39415de64f&tags=mexico&format=json&nojsoncallback=1
+
+clave: 56a7359aacc0e6513f04f4fcd321d0bc
+Secreto 17b3dd1778a43c36
+
+Granja/servidor/owner
+
+https://farm66.staticflickr.com/granja/servidor/owner.jpg
+https://farm\(photo[“farm”]!).staticflickr.com/(photo[“server”]!)/\(photo[“id”]!)_\(photo[“secret”]!)_b.jpg
+
+JSON
+https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=e999391851d797b7438d1f39415de64f&tags=mexico&format=json&nojsoncallback=1
