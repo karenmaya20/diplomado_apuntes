@@ -1,0 +1,56 @@
+Escuchate tantas veces hasta que odies tu discurso.
+Patrón delegado
+
+View controller
+has a Table view
+  is a UIScroller
+  uses Implements <<protocol>> UITableViewDataSource
+Implements <<protocol>> UITableViewDataSource
+
+
+
+AutoLayout: Elementos acomodados
+Constraint
+Segue de manera manual
+
+Máximo 3 vistas por storyboard
+
+Diseño por Composición:
+Se crea una clase por cada componente
+Ejemplo: Torta -> Jamon/Queso y cada uno tiene sus caracteristicas
+
+
+FACADE Diseño
+https://iterm2.com
+
+
+pod init
+Añadir linea a PodFile
+podfile.lock Logs
+Solicitudes del tipo asincrona
+
+
+
+pininos
+Actividades
+1. Buscar podcast
+Lista de podcast
+Otra vista de los podcast
+y mostrar lo que ahora
+3 vistas lista autores- autores podcast - reproducción(player)
+Feedkit lee RSS
+Ley del pareto ganancia/ esfuerzo 80 y 20
+
+vieport framework iOS
+Ley de los 3 clicks
+
+
+Firebase
+digitalOcean
+Heroku
+aws.amazon
+Machine Learning Reconoce imagenes 
+
+cuenta en fliker
+
+
