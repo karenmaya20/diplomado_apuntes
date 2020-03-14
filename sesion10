@@ -28,3 +28,19 @@ Librerias chidas
 ProgressHuD
 https://books.goalkicker.com
 MBProgressHUD
+
+
+-----
+
+
+Segunda actividad
+Guardar en firebase
+En favoritos la imagen
+Tocar imagen y mostrar info
+Dispatcher
+
+MVVM
+Vista generica (cualquier tipo de información o se pueda reutilizar)
+Controlador de la vista generica (dispatcher)
+
+
