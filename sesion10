@@ -1,0 +1,30 @@
+Sesión 9
+Finder->
+Proyecto.zip
+Terminal comandos
+Pod init
+Librerías -> pod Install
+
+Abrir xcworkpace
+googleService-info.plst (base de datos) FIREBASE
+Arrastrar
+En Proyfirebase -> Bundle OIdentifer -> Bundle id PEGAR
+
+
+Interface builder
+
+https://books.goalkicker.com
+
+Xib- vista
+Contralador
+
+
+Deckset -- Laminas de manera automatica
+
+Conceptos
+Navigation Controller
+
+Librerias chidas
+ProgressHuD
+https://books.goalkicker.com
+MBProgressHUD
